@@ -1,0 +1,28 @@
+# Build directories
+build/
+bin/
+
+# Object files
+*.o
+*.bin
+*.img
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.d
+*.map
+*.sym
